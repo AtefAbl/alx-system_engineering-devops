@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x hello-user.sh
+echo "hello user  $(whoami)"
