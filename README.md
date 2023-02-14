@@ -1,1 +1,1 @@
-Put your own words here
+This repositry contains the solutions of the shell tasks
